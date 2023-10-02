@@ -32,11 +32,9 @@ To use my Driver Drowsiness Detection System, follow these steps:
 
 1. Install the required dependencies (Python, OpenCV, TensorFlow/Keras).
 
-2. Clone my repository and navigate to the project directory.
+2. Clone my repository and run the main.ipynb file.
 
-3. Run the main.py file.
-
-4. Give access to use your device camera.
+3. Give access to use your device camera.
 
 4. The system will continuously monitor the driver's eyes and sound an alarm if drowsiness is detected.
 
