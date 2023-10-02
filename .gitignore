@@ -1,0 +1,13 @@
+# Directories
+data/
+data_new/
+logs/
+directory/
+
+# Models
+models/version-1
+models/version-2
+
+# Files
+*.zip
+
